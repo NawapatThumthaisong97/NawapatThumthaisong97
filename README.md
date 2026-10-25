@@ -19,8 +19,6 @@
 
 ### 🛠️ Featured Projects & Hackathons
 
-* 🛡️ **Zero-Trust P2P Shield** *(KBTG Kampus Hackathon 2026 - Security Track)*  
-  Architected a 4-layer fail-open anti-mule transaction pipeline combining tiered blacklists, real-time ML behavioral graph analytics (detecting *Fan-in* and *Sweep-to-Zero* patterns via CFR data), and cognitive UI friction to mitigate fraud with minimal false positives.
 * 🤖 **Cloud-Native Retail Automation** *(Gosoft Retail Tech Hackathon 2026)*  
   Developed an AI-driven retail management system on **AWS Bedrock**, delivering LLM-powered SWOT insights, multimodal market trend scouting, dynamic CDP ad-spend optimization, and automated procurement via LINE OA.
 * ☁️ **Room-Reservation Serverless Architecture** *(Academic Project)*  
